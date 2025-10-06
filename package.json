@@ -17,8 +17,10 @@
   "license": "MIT",
   "description": "Atividade sobre PetShop de backend e banco de dados",
   "dependencies": {
+    "@prisma/client": "^6.16.3",
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prisma": "^6.16.3"
   }
 }
